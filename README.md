@@ -4,4 +4,4 @@
                 <p class="fs-2 fw-bold ms-5">Игра на движке Unity 2021.2.14f1. Дата 20 мар. 2022 г.</p>
                 <p class="fs-3  ms-4">Играем за грабителя, цель - своровать 5 питомцев. ссылка на код -> <a href="https://github.com/alv1k/robberOnFerm">здесь</a></p>81
             </div>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://www.youtube.com/embed/u7w5Y0XhsQc/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/embed/u7w5Y0XhsQc)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/u7w5Y0XhsQc/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/u7w5Y0XhsQc)
