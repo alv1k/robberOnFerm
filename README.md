@@ -5,4 +5,4 @@
 
 ![Иллюстрация к проекту](https://github.com/robberOnFerm/Снимок экрана 2022-03-20 181311.png)
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/alv1k/robberOnFerm/raw/main/https://github.com/robberOnFerm/robber.png)
