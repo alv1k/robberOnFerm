@@ -3,6 +3,6 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u7w5Y0XhsQc/0.jpg)](https://www.youtube.com/watch?v=u7w5Y0XhsQc)
 
-![Иллюстрация к проекту](https://github.com/robberOnFerm/Снимок экрана 2022-03-20 181311.png)
+![alt text](https://github.com/alv1k/robberOnFerm/robber.png)
 
-![Image alt](https://github.com/alv1k/robberOnFerm/raw/main/https://github.com/robberOnFerm/robber.png)
+![alt text](https://github.com/alv1k/robberOnFerm/robber.png)
